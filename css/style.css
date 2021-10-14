@@ -26,7 +26,7 @@
 }
 
 #campoCategorias{
-      background-color:red;
+      background-color:#737475;
     width: 100%;
     height: 250px;
    
@@ -58,7 +58,7 @@
     padding-left: 30px;
 }
 .categorias{
-    background-color: chartreuse;
+    /* background-color: chartreuse; */
     width: 200px;
     height: 150px;
     float: left;
@@ -81,7 +81,7 @@
 }
 
 #bemVindo{
-    background-color: darkgray;
+    /* background-color: darkgray; */
     float: right;
     width: 250px;
     height: 180px;
@@ -110,18 +110,18 @@ span{
     font-weight: 1.1em;
 }
 h1{
-    font-size: 1.8em;
+    font-size: 2em;
     color: #ffffff;
     font-weight: bold;
     line-height: 1.3em;
 }
 h2{
-    font-size: 1.5em;
+    font-size: 1.7em;
     color: #ffffff;
     font-weight: bold;
 }
 p{
-    font-size: 1.2em;
+    font-size: 1.5em;
     color: #ffffff;
 }
 h3{
